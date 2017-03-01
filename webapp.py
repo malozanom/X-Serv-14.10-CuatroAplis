@@ -30,7 +30,7 @@ class app:
         """
 
         return ("200 OK", "<html><body><h1>" +
-                          "Dumb application just saying 'It works!'"
+                          "Dumb application just saying 'It works!'" +
                           "</h1></body></html>")
 
 
